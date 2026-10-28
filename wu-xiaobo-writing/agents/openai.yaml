@@ -1,0 +1,4 @@
+interface:
+  display_name: "吴晓波频道写作"
+  short_description: "依据频道样本，区分作者与稿型，创作、改写和评审财经及商业文章"
+  default_prompt: "使用 $wu-xiaobo-writing，依据我提供的材料选择合适稿型，写一篇保留具体观察与商业判断的文章。"
